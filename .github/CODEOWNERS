@@ -10,19 +10,19 @@
 # the /.github/linters/ directory at the root of the 
 # repository and any of its subdirectories.
 # This prevent any modification of the linters configuration files used by the actions.
-/.github/linters/
+/.github/linters/ @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
 
 # @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners owns any files in 
 # the /.github/ISSUE_TEMPLATE/ directory at the root of the 
 # repository and any of its subdirectories.
 # This prevent any modification of the templates used to open issue.
-/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/ @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
 
 # @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners owns the following
 # legal files.
-/docs/CODE_OF_CONDUCT.md
-/docs/SECURITY.md
-LICENSE
+/docs/CODE_OF_CONDUCT.md @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
+/docs/SECURITY.md @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
+LICENSE @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
 
 # To protect a repository fully against unauthorized changes,
 # we also need to define an owner for the CODEOWNERS file itself.
