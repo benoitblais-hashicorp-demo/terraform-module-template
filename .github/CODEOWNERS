@@ -22,7 +22,7 @@
 # legal files.
 /docs/CODE_OF_CONDUCT.md @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
 /docs/SECURITY.md @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
-LICENSE @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
+/LICENSE @benoitblais-hashicorp-demo/HCPTerraform-ModulesRegistry-Owners
 
 # To protect a repository fully against unauthorized changes,
 # we also need to define an owner for the CODEOWNERS file itself.
